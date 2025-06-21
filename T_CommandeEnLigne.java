@@ -9,7 +9,7 @@ public class T_CommandeEnLigne  extends T_OrderProcessTemplate{
 
     @Override
     protected void selectProduct() {
-        System.out.println("Produit sélectionné : T-shirt");
+        System.out.println("Produit sélectionné : call off ");
 
     }
 
